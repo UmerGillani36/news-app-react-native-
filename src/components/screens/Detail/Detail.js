@@ -3,7 +3,8 @@ import { View, SafeAreaView, StyleSheet, Image } from "react-native";
 import { Appbar, Text } from "react-native-paper";
 
 const Detail = ({ route, navigation }) => {
-  const data = route.params;
+  const data = route.params.data;
+  console.log("data123", data);
   return (
     <React.Fragment>
       <SafeAreaView style={styles.container}>
@@ -12,25 +13,26 @@ const Detail = ({ route, navigation }) => {
           <Appbar.Content title="Details" titleStyle={styles.logo} />
         </Appbar.Header>
         <View style={styles.mainContainer}>
-          <View style={styles.author}>
-            <Text>Author</Text>
-            <Text>{data.author}</Text>
-          </View>
-          <View style={styles.date}>
-            <Text>published At</Text>
-            <Text>{data.publishedAt}</Text>
-          </View>
-          <View style={styles.title}>
-            <Text>Title</Text>
-            <Text>{data.title}</Text>
-          </View>
-          <View style={styles.image}>
-            <Image source={data.urlToImage} />
-          </View>
-          <View style={styles.content}>
-            <Text>Content</Text>
-            <Text>{data.content}</Text>
-          </View>
+          <Image
+            source={{
+              uri: data.urlToImage,
+            }}
+            style={{ width: "100%", height: 250 }}
+          />
+          <Text style={{ fontSize: 22, fontWeight: "bold", marginTop: 10 }}>
+            {data.author ? data.author : "Anonymous"}
+          </Text>
+          <Text style={{ fontSize: 14, fontWeight: "bold" }}>
+            {data.publishedAt}
+          </Text>
+          <Text
+            style={{ fontSize: 30, fontWeight: "bold", paddingHorizontal: 10 }}
+          >
+            {data.title}
+          </Text>
+          <Text style={{ fontSize: 16, paddingHorizontal: 10 }}>
+            {data.content}
+          </Text>
         </View>
       </SafeAreaView>
     </React.Fragment>
@@ -57,26 +59,5 @@ const styles = StyleSheet.create({
     flexDirection: "column",
     alignItems: "center",
     // justifyContent: "center",
-  },
-  author: {
-    display: "flex",
-    justifyContent: "center",
-    alignItems: "center",
-  },
-  date: {
-    display: "flex",
-    justifyContent: "center",
-    alignItems: "center",
-  },
-  title: {
-    display: "flex",
-    justifyContent: "center",
-    alignItems: "center",
-  },
-  image: {},
-  content: {
-    display: "flex",
-    justifyContent: "center",
-    alignItems: "center",
   },
 });
