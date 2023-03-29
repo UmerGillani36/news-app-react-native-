@@ -1,5 +1,3 @@
-import { StatusBar } from "expo-status-bar";
-import { SafeAreaView, StyleSheet, Text, View } from "react-native";
 import { AppRegistry } from "react-native";
 import { Provider as PaperProvider } from "react-native-paper";
 import { name as appName } from "./app.json";
@@ -35,12 +33,3 @@ export default function App() {
   );
 }
 AppRegistry.registerComponent(appName, () => App);
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: "#fff",
-    alignItems: "center",
-    justifyContent: "center",
-  },
-});
