@@ -1,0 +1,243 @@
+
+    {
+        "status": "success",
+        "totalResults": 3245,
+        "results": [
+        {
+        "title": "McDonalds feiert chinesisches Neujahr im Metaverse",
+        "link": "https://www.btc-echo.de/schlagzeilen/mcdonalds-chinesisches-neujahr-metaverse-134292/",
+        "keywords": [
+        "Metaverse",
+        "China",
+        "Kunst",
+        "NFT"
+        ],
+        "creator": [
+        "Marlen Kremer"
+        ],
+        "video_url": null,
+        "description": "Der US-amerikanische Fast-Food-Gigant McDonalds macht Anstalten, im Metaverse aktiv zu werden. Pünktlich zum chinesischen Neujahr meldet sich das Restaurant mit einem VR-Erlebnis, bei dem es jedoch nicht um Burger und Pommes geht.   Source: BTC-ECHO Der Beitrag McDonalds feiert chinesisches Neujahr im Metaverse erschien zuerst auf BTC-ECHO.",
+        "content": null,
+        "pubDate": "2022-02-03 13:30:44",
+        "expire_at": "Fri, 12 Aug 2022 13:30:44 GMT",
+        "image_url": "https://www.btc-echo.de/wp-content/uploads/2022/02/shutterstock_2114506427-scaled.jpg",
+        "source_id": "btc-echo",
+        "country": [
+        "germany"
+        ],
+        "category": [
+        "top",
+        "business"
+        ],
+        "language": "german"
+        },
+        {
+        "title": "With record $10.7 billion sales, Qualcomm eyes IoT, Metaverse space",
+        "link": "https://www.business-standard.com/article/international/with-record-10-7-billion-sales-qualcomm-eyes-iot-metaverse-space-122020301228_1.html",
+        "keywords": null,
+        "creator": null,
+        "video_url": null,
+        "description": "Riding on strong performance in its chipset and licensing business, chip-maker Qualcomm has reported a record revenue of $10.7 billion in its December quarter of 2021.",
+        "content": null,
+        "pubDate": "2022-02-03 12:52:38",
+        "expire_at": "Fri, 12 Aug 2022 12:52:38 GMT",
+        "image_url": "data:image/jpeg;base64,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",
+        "source_id": "business-standard",
+        "country": [
+        "india"
+        ],
+       "category": [
+        "top"
+        ],
+        "language": "english"
+        },
+       {
+        "title": "Tech Leaders Are Jumping Into The Metaverse — Should Your Company Follow?",
+        "link": "https://www.forbes.com/sites/forbestechcouncil/2022/02/03/tech-leaders-are-jumping-into-the-metaverse---should-your-company-follow/",
+       "keywords": [
+        "Innovation",
+        "/innovation",
+        "Innovation",
+        "/innovation",
+        "technology"
+        ],
+       "creator": [
+        "Oleg Fonarov",
+        " Forbes Councils Member"
+        ],
+        "video_url": null,
+        "description": "So what are the upsides of jumping into the metaverse, and what are the challenges? We explore these questions below.",
+        "content": "So what are the upsides of jumping into the metaverse, and what are the challenges? We explore these questions below.",
+        "pubDate": "2022-02-03 12:45:00",
+        "expire_at": "Fri, 12 Aug 2022 12:45:00 GMT",
+        "image_url": "https://thumbor.forbes.com/thumbor/fit-in/0x0/filters%3Aformat%28jpg%29/https://specials-images.forbesimg.com/imageserve/61fa8777b04ba54a788590a6/0x0.jpg",
+        "source_id": "forbes",
+       "country": [
+        "united states of america"
+        ],
+       "category": [
+        "technology"
+        ],
+        "language": "english"
+        },
+       {
+        "title": "Cryptocurrencies take a beating along with tech stocks, as Facebook earnings hit metaverse tokens and a blockchain hack hits solana and other DeFi coins",
+        "link": "https://markets.businessinsider.com/news/currencies/crypto-market-facebook-earnings-metaverse-blockchain-ethereum-bitcoin-solana-hack-2022-2",
+        "keywords": null,
+        "creator": null,
+        "video_url": null,
+        "description": "Meta's shares plunged 20% in premarket trading, dragging tech and social media stocks lower, while metaverse-linked cryptos slid.",
+        "content": null,
+        "pubDate": "2022-02-03 12:11:29",
+        "expire_at": "Fri, 12 Aug 2022 12:11:29 GMT",
+        "image_url": "https://i.insider.com/61e8b0c79386c900185f7145?format=jpeg",
+        "source_id": "businessinsider_us",
+       "country": [
+        "united states of america"
+        ],
+       "category": [
+        "top"
+        ],
+        "language": "english"
+        },
+       {
+        "title": "Facebook's transition to metaverse has eaten into the social media giant's profits",
+        "link": "https://www.npr.org/2022/02/03/1077820355/facebooks-transition-to-metaverse-has-eaten-into-the-social-media-giants-profits",
+        "keywords": null,
+       "creator": [
+        "Peter Granitz"
+        ],
+        "video_url": null,
+        "description": "Shares dropped more than 20% in after hours trading on news of slowing growth, competition and heavy spending on hardware.",
+        "content": "Shares dropped more than 20% in after hours trading on news of slowing growth, competition and heavy spending on hardware.(Image credit: Chris Delmas /AFP via Getty Images)",
+        "pubDate": "2022-02-03 11:49:08",
+        "expire_at": "Fri, 12 Aug 2022 11:49:08 GMT",
+        "image_url": "data:image/png;base64,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",
+        "source_id": "npr",
+       "country": [
+        "united states of america"
+        ],
+       "category": [
+        "technology"
+        ],
+        "language": "english"
+        },
+       {
+        "title": "Powerbridge Technologies Enters into Metaverse to Create a New Model of Smart and Immersive Travel &amp; Leisure",
+        "link": "https://www.prnewswire.com:443/news-releases/powerbridge-technologies-enters-into-metaverse-to-create-a-new-model-of-smart-and-immersive-travel--leisure-301474782.html",
+       "keywords": [
+        "Computer & Electronics",
+        "Computer Software",
+        "Cloud Computing/Internet of Things",
+        "STW",
+        "CPR",
+        "IOT"
+        ],
+        "creator": null,
+        "video_url": null,
+        "description": "ZHUHAI, China, Feb. 3, 2022 /PRNewswire/- Powerbridge Technologies Co., Ltd. (Nasdaq: PBTS) (\"Powerbridge\" or the \"Company\"), a provider of multi-industry technology solutions, is pleased to announce its partnership between its wholly-owned subsidiary, Powermeta Digital Co., Ltd....",
+        "content": null,
+        "pubDate": "2022-02-03 11:47:00",
+        "expire_at": "Fri, 12 Aug 2022 11:47:00 GMT",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpx8UW9pRyE8jMWtj_3kKACaIlzrTe-STCwg&usqp=CAU",
+        "source_id": "cision",
+       "country": [
+        "singapore"
+        ],
+       "category": [
+        "top"
+        ],
+        "language": "english"
+        },
+       {
+        "title": "5 Charts That Show Roblox's Metaverse Success Is Very Real",
+        "link": "https://www.fool.com/investing/2022/02/03/3-charts-roblox-metaverse-success-is-very-real/?source=iedfolrf0000001",
+        "keywords": null,
+       "creator": [
+        "newsfeedback@fool.com (Jason Hawthorne)"
+        ],
+        "video_url": null,
+        "description": "The company is on the road to profits as its virtual world keeps growing in popularity.",
+        "content": "There is a lot of talk these days about the metaverse- a term that has been defined in several ways. In general, though, it references a persistent digital space where users can be immersed in a virtual or augmented reality. And although the idea may be new to investors, one company has a huge head start on building part of the metaverse.Roblox (NYSE: RBLX) has been offering a platform that brings millions of people together in a virtual space since its founding in 2004. The platform is different from many others because it is free to play, and relies on games created by a community of developers, as well as purchases of Robux, its platform-specific virtual currency. The company has put up impressive financial results since its March 2021 initial public offering. But there are operational metrics that highlight just how strong a position the company is in.Image source: Getty Images.Continue reading",
+        "pubDate": "2022-02-03 11:33:00",
+        "expire_at": "Fri, 12 Aug 2022 11:33:00 GMT",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcaiUsqmDbz_drGUXyesyeDOw2RPd7u4-jww&usqp=CAU",
+        "source_id": "fool",
+       "country": [
+        "canada"
+        ],
+       "category": [
+        "business"
+        ],
+        "language": "english"
+        },
+       {
+        "title": "1 Top Metaverse Stock to Buy Now and Hold",
+        "link": "https://www.fool.com/investing/2022/02/03/1-top-metaverse-stock-to-buy-now-and-hold/?source=iedfolrf0000001",
+        "keywords": null,
+       "creator": [
+        "newsfeedback@fool.com (Trevor Jennewine and Jamie Louko)"
+        ],
+        "video_url": null,
+        "description": "Matterport could help you cash in on this multi-trillion industry.",
+        "content": "The metaverse is still an evolving and nebulous technology, and we are probably several years away from seeing it in action. Even so, the basic concept is straightforward: The metaverse will be a virtual world (or a network of virtual worlds) in which people can interact with each other and their environment. And Matterport's (NASDAQ: MTTR) 3D capture technology could play an important role in constructing those worlds.In this Backstage Pass clip, recorded on Jan. 11, Motley Fool contributor Jamie Louko shares his thoughts on why Matterport could be a great way to invest in the metaverse, an industry that some analysts peg at over $1 trillion a decade from now.Continue reading",
+        "pubDate": "2022-02-03 11:18:00",
+        "expire_at": "Fri, 12 Aug 2022 11:18:00 GMT",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9EoVmukHHFquTYeX0UzYq0sdBRnnsH2IErw&usqp=CAU",
+        "source_id": "fool",
+       "country": [
+        "canada"
+        ],
+       "category": [
+        "business"
+        ],
+        "language": "english"
+        },
+       {
+        "title": "Facebooks \"Metaverse\": Der Eskapismus im Kulturwandel",
+        "link": "https://www.derstandard.de/story/2000133056250/facebooks-metaverse-der-eskapismus-im-kulturwandel?ref=rss",
+       "keywords": [
+        "Kultur"
+        ],
+        "creator": null,
+        "video_url": null,
+        "description": "Die Virtual-Reality-Welt \"Metaverse\" orientiert sich an Vorbildern aus der Science-Fiction-Literatur und schreibt die eskapistische Kulturtradition fort. Kann das gut gehen?",
+        "content": null,
+        "pubDate": "2022-02-03 11:00:01",
+        "expire_at": "Fri, 12 Aug 2022 11:00:01 GMT",
+        "image_url": "https://cdn.pixabay.com/photo/2022/10/04/21/25/pink-7499159__340.jpg",
+        "source_id": "derstandard",
+       "country": [
+        "germany"
+        ],
+       "category": [
+        "entertainment"
+        ],
+        "language": "german"
+        },
+       {
+        "title": "Facebooks \"Metaverse\": Der Eskapismus im Kulturwandel",
+        "link": "https://www.derstandard.at/story/2000133056250/facebooks-metaverse-der-eskapismus-im-kulturwandel?ref=rss",
+       "keywords": [
+        "Kultur",
+        "Debatte"
+        ],
+        "creator": null,
+        "video_url": null,
+        "description": "Die Virtual-Reality-Welt \"Metaverse\" orientiert sich an Vorbildern aus der Science-Fiction-Literatur und schreibt die eskapistische Kulturtradition fort. Kann das gut gehen?",
+        "content": null,
+        "pubDate": "2022-02-03 11:00:01",
+        "expire_at": "Fri, 12 Aug 2022 11:00:01 GMT",
+        "image_url": "https://media.istockphoto.com/id/1324380506/photo/people-with-vr-grasses-playing-virtual-reality-game-future-digital-technology-and-3d-virtual.jpg?s=612x612&w=0&k=20&c=I_9fnEi1hNHFwy0qe8g7V1ZQJmgyKEDOSDJonScTSMU=",
+        "source_id": "derstandard_at",
+       "country": [
+        "austria"
+        ],
+       "category": [
+        "entertainment"
+        ],
+        "language": "german"
+        }
+        ],
+        "nextPage": "XXXPPPXXXXXXXXXX"
+        }
