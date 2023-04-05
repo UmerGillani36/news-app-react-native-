@@ -16,7 +16,8 @@ const Home = () => {
   const [histoLoading, setHistoLoading] = useState(false);
   const [breakLoading, setBreakLoading] = useState(false);
   // News Api Key
-  const key = "1b754dd30a1740f99d09bcd51812add6";
+  // const key = "1b754dd30a1740f99d09bcd51812add6";
+  const key = "43ffc16bdfec4c4b84b8bee9ce5837ad";
 
   // for google news from web server
   const handleGoogleNews = () => {
